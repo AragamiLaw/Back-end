@@ -1,2 +1,2 @@
 # Back-end
-Ayooo its JS broooo
+Yesss you can use python
